@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XSGDGG0jw4I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NewTun\\Desktop\\CleanArchitectureWithCQRS\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NewTun\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
+    "C:\\Users\\NewTun\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\NewTun\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
