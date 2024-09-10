@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NewTun\\Desktop\\CleanArchitectureWithCQRS\\Domain\\Domain.csproj": {}
+    "C:\\Users\\NewTun\\Desktop\\Clean-Architecture-CQRS-Template\\CleanArchitectureWithCQRS\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NewTun\\Desktop\\CleanArchitectureWithCQRS\\Domain\\Domain.csproj": {
+    "C:\\Users\\NewTun\\Desktop\\Clean-Architecture-CQRS-Template\\CleanArchitectureWithCQRS\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NewTun\\Desktop\\CleanArchitectureWithCQRS\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\NewTun\\Desktop\\Clean-Architecture-CQRS-Template\\CleanArchitectureWithCQRS\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\NewTun\\Desktop\\CleanArchitectureWithCQRS\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\NewTun\\Desktop\\Clean-Architecture-CQRS-Template\\CleanArchitectureWithCQRS\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\NewTun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NewTun\\Desktop\\CleanArchitectureWithCQRS\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\NewTun\\Desktop\\Clean-Architecture-CQRS-Template\\CleanArchitectureWithCQRS\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NewTun\\AppData\\Roaming\\NuGet\\NuGet.Config",

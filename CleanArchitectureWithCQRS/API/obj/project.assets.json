@@ -4715,11 +4715,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NewTun\\Desktop\\CleanArchitectureWithCQRS\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\NewTun\\Desktop\\Clean-Architecture-CQRS-Template\\CleanArchitectureWithCQRS\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\NewTun\\Desktop\\CleanArchitectureWithCQRS\\API\\API.csproj",
+      "projectPath": "C:\\Users\\NewTun\\Desktop\\Clean-Architecture-CQRS-Template\\CleanArchitectureWithCQRS\\API\\API.csproj",
       "packagesPath": "C:\\Users\\NewTun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NewTun\\Desktop\\CleanArchitectureWithCQRS\\API\\obj\\",
+      "outputPath": "C:\\Users\\NewTun\\Desktop\\Clean-Architecture-CQRS-Template\\CleanArchitectureWithCQRS\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NewTun\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4737,11 +4737,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\NewTun\\Desktop\\CleanArchitectureWithCQRS\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\NewTun\\Desktop\\CleanArchitectureWithCQRS\\Application\\Application.csproj"
+            "C:\\Users\\NewTun\\Desktop\\Clean-Architecture-CQRS-Template\\CleanArchitectureWithCQRS\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\NewTun\\Desktop\\Clean-Architecture-CQRS-Template\\CleanArchitectureWithCQRS\\Application\\Application.csproj"
             },
-            "C:\\Users\\NewTun\\Desktop\\CleanArchitectureWithCQRS\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\NewTun\\Desktop\\CleanArchitectureWithCQRS\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\NewTun\\Desktop\\Clean-Architecture-CQRS-Template\\CleanArchitectureWithCQRS\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\NewTun\\Desktop\\Clean-Architecture-CQRS-Template\\CleanArchitectureWithCQRS\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

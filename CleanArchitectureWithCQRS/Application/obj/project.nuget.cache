@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zhXcq3Sbuq0=",
+  "dgSpecHash": "4DA/H4yPooI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\NewTun\\Desktop\\CleanArchitectureWithCQRS\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\NewTun\\Desktop\\Clean-Architecture-CQRS-Template\\CleanArchitectureWithCQRS\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NewTun\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\NewTun\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
