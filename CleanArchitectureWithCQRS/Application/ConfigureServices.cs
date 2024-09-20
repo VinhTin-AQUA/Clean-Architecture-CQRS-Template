@@ -1,6 +1,7 @@
 ﻿using Application.Common.Behaviours;
 using FluentValidation;
 using MediatR;
+using MediatR.NotificationPublishers;
 using Microsoft.Extensions.DependencyInjection;
 using System.Reflection;
 
@@ -17,6 +18,12 @@ namespace Application
             {
                 options.RegisterServicesFromAssemblies(Assembly.GetExecutingAssembly());
                 options.AddBehavior(typeof(IPipelineBehavior<,>), typeof(ValidationBehaviour<,>));
+
+                // sự kiện được publish song song nếu sự kiện đó gọi nhiều lần
+                //options.NotificationPublisher = new TaskWhenAllPublisher();
+
+                // sự kiện được publish tuần tự nếu sự kiện đó gọi nhiều lần
+                //options.NotificationPublisher = new ForeachAwaitPublisher();
             });
 
             return services;
